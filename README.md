@@ -59,7 +59,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 <tr>
 <td><b>SM3 - Batalha de Modelos & Engenharia de Prompt (XML)</b></td>
 <td>Análise comparativa entre modelos de IA e aplicação avançada de XML na organização de prompts.</td>
-<td><a href="#">Ver Projeto</a></td>
+<td><a href="https://github.com/sophiassantos/batalha-engenharia-xml">Ver Projeto</a></td>
 </tr>
 
 <tr>
