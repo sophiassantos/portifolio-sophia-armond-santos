@@ -71,7 +71,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 <tr>
 <td><b>SM5 -  Do Clone ao Produto Mínimo Viável (MVP+)</b></td>
 <td>Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável.</td>
-<td><a href="#">Ver Projeto</a></td>
+<td><a href="https://github.com/sophiassantos/do-clone-ao-produto-minimo">Ver Projeto</a></td>
 </tr>
 
 <tr>
