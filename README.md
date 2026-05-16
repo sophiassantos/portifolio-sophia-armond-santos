@@ -87,7 +87,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 </tr>
 
 <tr>
-<td><b>SM8 - Criação de Músicas com Suno IA</b></td>
+<td><b>SM8 - Composição Musical Assistida por Inteligência Artificial</b></td>
 <td>Criação de músicas com Inteligência Artificial.</td>
 <td><a href="#">Ver Projeto</a></td>
 </tr>
