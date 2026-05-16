@@ -37,6 +37,27 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 ### 📂 Portfólio de Projetos
  
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
+<table width="100%">
+<tr>
+<th width="30%">Projeto</th>
+<th width="55%">Descrição</th>
+<th width="15%">Link</th>
+</tr>
+
+<tr>
+<td><b>SM1 - A Corrida do Prompt</b></td>
+<td>Modelagem ER e Scripts SQL para uma instituição de ensino.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>Engenharia Reversa</b></td>
+<td>Reconstrução de um aplicativo web a partir da análise de sua interface, utilizando engenharia reversa e ferramentas de IA.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+</table>
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
