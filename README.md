@@ -53,7 +53,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 <tr>
 <td><b>SM2 - Laboratório de Classificação Visual</b></td>
 <td>Utilização do Teachable Machine para treinar um modelo de aprendizado de máquina.</td>
-<td><a href="#">Ver Projeto</a></td>
+<td><a href="https://github.com/sophiassantos/lab-de-classificacao-visual/tree/main">Ver Projeto</a></td>
 </tr>
 
 <tr>
